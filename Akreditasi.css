@@ -1,0 +1,29 @@
+*{
+    font-family: "poppins" serif;
+}
+
+.footer{
+    min-height: 60vh;
+    background-color: #15181f;
+    margin-top: 150px;
+    }
+    
+     #hver a:hover{
+    background-color: rgb(58, 45, 238);
+    width: fit-content;
+    }
+  
+    #hvor a:hover{
+      background-color: rgb(58, 45, 238);
+      width: fit-content;
+      }
+    
+  
+    .footer .copyright{
+     padding-top: 100px;
+    }
+
+    .conten img{
+        border-radius: 15px;
+        border: solid 2px ;
+    }
